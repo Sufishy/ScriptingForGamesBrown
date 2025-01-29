@@ -1,0 +1,12 @@
+Here is the step by step process I went/am going through 
+
+1. cloned the fork from https://github.com/RBrownUVU/ScriptingForGames
+2. staged 1040 unstaged files and committed
+3. tried to push but was unable to
+
+//
+
+1. went through the remote repositories on gitkraken. I added this one to the old one "ScriptingForGamesBrown"
+2. Then I deleted Professor Brown from the remote repositories, and was able to push
+3. Did a force push to get rid of anything I might have messed up in the previous repository
+4. Changed and updated the read.me file
